@@ -1,0 +1,15 @@
+{
+	"ImportPath": "github.com/marcocot/keyfinder",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v78",
+	"Deps": [
+		{
+			"ImportPath": "github.com/LindsayBradford/go-dbf/godbf",
+			"Rev": "cab7c0bbd90abd57b410fc1a1483bc7d86cd818a"
+		},
+		{
+			"ImportPath": "github.com/axgle/mahonia",
+			"Rev": "c528b747d92d41ca581a7acf3e604c396fc7c034"
+		}
+	]
+}
